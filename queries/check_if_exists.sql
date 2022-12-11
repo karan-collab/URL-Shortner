@@ -1,0 +1,1 @@
+SELECT EXISTS(SELECT 1 FROM link WHERE short_url = ?) AS 'exists';
