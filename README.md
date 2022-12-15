@@ -52,4 +52,6 @@ cp .env.sample .env
 
 # Run the server
 yarn start
-```
+<br /> 
+## Live Link
+[Website Link](https://lin-k.cf/)
