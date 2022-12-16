@@ -55,3 +55,8 @@ yarn start
 <br /> 
 ## Live Link
 [Website Link](https://lin-k.cf/)
+<br />
+## Screenshot of Interface
+<img width="1431" alt="Screen Shot 2022-12-16 at 7 45 42 PM" src="https://user-images.githubusercontent.com/57176666/208117674-b329e820-f4d4-4b7d-95e4-57cd041b2dd8.png">
+
+
